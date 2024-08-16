@@ -12,8 +12,8 @@ CloudVideoApp is a simple Android project that demonstrates how to capture, uplo
 
 ## Prerequisites
 
-- Android Studio Arctic Fox or later
-- Minimum Android SDK 21
+- Android Studio 
+- Minimum Android SDK 24
 - A [Cloudinary](https://cloudinary.com/) account
 
 ## Getting Started
