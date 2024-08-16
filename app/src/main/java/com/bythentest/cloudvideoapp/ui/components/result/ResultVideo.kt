@@ -8,10 +8,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.viewinterop.AndroidView
-import androidx.media3.common.Player
-import androidx.media3.ui.PlayerView
-import com.cloudinary.android.cldvideoplayer.CldVideoPlayer
 
 @Composable
 fun ResultVideo(decodedUrl: String) {
