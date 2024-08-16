@@ -88,7 +88,6 @@ dependencies {
     implementation(libs.bundles.navigation)
     implementation(libs.bundles.network)
     implementation(libs.bundles.coroutines)
-    implementation (libs.mobile.ffmpeg.full)
     implementation(libs.bundles.cloudinary)
     implementation(libs.bundles.media3)
 }
